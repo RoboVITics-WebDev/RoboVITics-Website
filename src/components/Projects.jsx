@@ -2,8 +2,8 @@ import React from 'react'
 
 const Projects = () => {
   return (
-    <div>
-      
+    <div className='flex justify-center h-screen items-center bg-yellow-600'>
+      Projects
     </div>
   )
 }
